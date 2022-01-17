@@ -1,6 +1,6 @@
 ## Hackintosh EFI 分享
 1. 适用机型：惠普ENVY13 AH系列
-2. opencore版本：0.5.6
+2. opencore版本：0.7.6
 
 ### 个人配置：
 1. 处理器：Intel Core I7-8550u
